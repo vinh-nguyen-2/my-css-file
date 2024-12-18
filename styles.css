@@ -17,7 +17,7 @@
   background-color: orange !important;
 }
 
-.assistive-text.loading-spinner-text {
+.assistive-text {
  color: purple !important;
 }
 
@@ -31,6 +31,22 @@
   margin-top: 25px;
 }
 
+.bookit-popup .bookit-popup-window .routing-loader .routing-loader-body span {
+ color: orange !important;
+}
+
+.assistive-text {
+color: orange !important;
+background: orange !important;
+}
+
+.spinner:before {
+background: purple !important;
+}
+
+.spinner:after {
+background: purple !important;
+}
 
 .loading-spinner-text {
   color: blue !important;
