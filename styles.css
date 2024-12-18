@@ -1,0 +1,72 @@
+.meeting-title {
+  color: red !important;
+  text-align: left !important;
+  text-transform: capitalize;
+}
+
+.logo {
+  margin-top: 100px;
+}
+
+.day-btn {
+  border-radius: 2px !important;
+}
+
+.spinner {
+  color: blue !important;
+  background-color: orange !important;
+}
+
+.assistive-text.loading-spinner-text {
+ color: purple !important;
+}
+
+.spinner-dot-a, .spinner-dot-b {
+  background-color: orange !important;
+}
+
+.loading-spinner-text {
+  color: blue !important;
+  font-size: 100px;
+}
+
+[role="button"] {
+   color: white !important;
+   background-color: black !important;
+}
+
+.timeslot-button {
+  border-radius: 90% !important;
+}
+
+#pr_id_2_label {
+  color: blue !important;
+}
+
+.select-datetime-header-text {
+  color: orange !important;
+  font-size: 30px !important;
+}
+
+.day-number {
+  color: brown !important;
+  font-size: 20px;
+}
+
+.cal-container {
+  background-color: slategray !important;
+}
+
+.input-container {
+   background-color: #f0f0f0;
+   border-radius: 0px;         
+   border: 2px solid green;    
+   font-weight: 400;           
+   padding: 12px 20px;         
+}
+
+.form-title {
+  color: purple !important;
+  padding: 100px 0 !important;
+  font-weight: 10 !important;
+}
