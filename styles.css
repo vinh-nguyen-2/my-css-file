@@ -21,9 +21,16 @@
  color: purple !important;
 }
 
-.spinner-dot-a, .spinner-dot-b {
+.spinner-dot-a {
   background-color: orange !important;
 }
+
+.spinner-dot-b {
+  background-color: orange !important;
+  color: orange;
+  margin-top: 25px;
+}
+
 
 .loading-spinner-text {
   color: blue !important;
