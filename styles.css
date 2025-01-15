@@ -2,6 +2,7 @@
   color: red !important;
   text-align: left !important;
   text-transform: capitalize;
+  padding: 100px 0 !important;
 }
 
 .logo {
@@ -100,6 +101,5 @@ background: purple !important;
 
 .form-title {
   color: purple !important;
-  padding: 100px 0 !important;
   font-weight: 10 !important;
 }
